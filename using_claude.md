@@ -64,8 +64,10 @@ Using ! followed by commad.  It will execute what ever command you typed after t
 
 You can type on the prompt:
 
+- default
 - think
 - think hard
+- think hardest
 - think harder
 - ultrathink
 
