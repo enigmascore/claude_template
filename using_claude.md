@@ -112,3 +112,18 @@ Asking a quick question:
 ``
 claude -p "What does the code do"
 ``
+
+Go back to a specific conversation with claude:
+
+``
+claude --resume
+``
+
+It will show you a summary of all your previous conversations and you can choose one.
+
+In the md files you can add keywords like:
+
+'''
+MUST
+MUST NOT
+'''
